@@ -2,9 +2,8 @@
 
 - 🔭 Atualmente trabalho na área da contrução civil
 - 😉 Migrando de área
-- 🌱 Aprendendo Javascript
--
-- 
+- <> Aprendendo Javascript
+
 <div align="center">
   <a href="https://github.com/jovelino23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovelino23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
