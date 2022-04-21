@@ -1,8 +1,8 @@
 ### Olá, me chamo Geovanne Borges
 
-- 🔭 Atualmente trabalho na área da contrução civil
-- 😉 Migrando de área
-- <> Aprendendo Javascript
+- 👷 Atualmente trabalho na área da contrução civil
+- 🔜 Migrando de área
+- 🧑‍💻 Aprendendo Javascript
 
 <div align="center">
   <a href="https://github.com/jovelino23">
